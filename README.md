@@ -2,6 +2,8 @@
 
 A fun, interactive, and romantic web application designed to ask your special someone to be your Valentine. Built with pure HTML, CSS, and JavaScript.
 
+![Uploading valentine_day_ss.png…]()
+
 ## ✨ Features
 
 - **Interactive "No" Button:** Every time the user clicks "No", the button moves to a random position on the screen to playfully prevent them from rejecting you.

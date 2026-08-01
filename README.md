@@ -2,7 +2,7 @@
 
 A fun, interactive, and romantic web application designed to ask your special someone to be your Valentine. Built with pure HTML, CSS, and JavaScript.
 
-![Uploading valentine_day_ss.png…]()
+![Webpage Preview](assets/preview.png)
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ A fun, interactive, and romantic web application designed to ask your special so
 - **JavaScript (Vanilla)** – Dynamic button positioning, image cycling, and event handling
 
 ## Getting Started
-To view the Valentine's Day website, simply visit the following URL: [Valentine's Day Website](https://valentines-swerik.vercel.app/)
+To view the Valentine's Day website, simply visit the following URL: [Valentine's Day Website]
 
 If you want to host the website locally, you can clone this repository using the following command:
 
